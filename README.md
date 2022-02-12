@@ -11,5 +11,6 @@
 |2022-01-26|1장 내용 정리|[1. 코틀린 시작하기](https://blog.rgbplace.com/407)|
 |2022-01-30|2장 내용 정리|[2. Java 개발자를 위한 코틀린 필수 사항](https://blog.rgbplace.com/409)|
 |2022-02-02|3장 내용 정리|[3. 함수를 사용하자](https://blog.rgbplace.com/410)|
+|2022-02-12|4장 내용 정리|[4. 외부 반복과 아규먼트 매칭](https://blog.rgbplace.com/414)|
 
 [다재다능 코틀린 프로그래밍]: https://www.google.com/search?q=%EB%8B%A4%EC%9E%AC%EB%8B%A4%EB%8A%A5+%EC%BD%94%ED%8B%80%EB%A6%B0+%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D&oq=%EB%8B%A4%EC%9E%AC%EB%8B%A4%EB%8A%A5+%EC%BD%94%ED%8B%80%EB%A6%B0+%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D&aqs=chrome..69i57.3773j0j7&sourceid=chrome&ie=UTF-8
