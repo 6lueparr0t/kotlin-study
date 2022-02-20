@@ -13,5 +13,6 @@
 |2022-02-02|3장 내용 정리|[3. 함수를 사용하자](https://blog.rgbplace.com/410)|
 |2022-02-12|4장 내용 정리|[4. 외부 반복과 아규먼트 매칭](https://blog.rgbplace.com/414)|
 |2022-02-13|5장 내용 정리|[5. 콜렉션 사용하기](https://blog.rgbplace.com/415)|
+|2022-02-21|6장 내용 정리|[6-1. 오류를 예방하는 타입 안정성](https://blog.rgbplace.com/421)|
 
 [다재다능 코틀린 프로그래밍]: https://www.google.com/search?q=%EB%8B%A4%EC%9E%AC%EB%8B%A4%EB%8A%A5+%EC%BD%94%ED%8B%80%EB%A6%B0+%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D&oq=%EB%8B%A4%EC%9E%AC%EB%8B%A4%EB%8A%A5+%EC%BD%94%ED%8B%80%EB%A6%B0+%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D&aqs=chrome..69i57.3773j0j7&sourceid=chrome&ie=UTF-8
